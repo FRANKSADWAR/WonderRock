@@ -1,0 +1,13 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+@font-face {
+    font-family:'Ubuntu';
+    src: url('../fonts/fonts/Ubuntu-Regular.ttf');
+    font-weight: normal;
+}
+@font-face{
+    src: url('../fonts/fonts/Roboto-Regular.ttf');
+    font-family : 'Roboto';
+    font-weight: normal;
+    
+}
